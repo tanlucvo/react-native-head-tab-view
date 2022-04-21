@@ -1,6 +1,6 @@
 import { TabView, TabViewProps, Route, TabBar } from 'react-native-tab-view';
 import React, { useEffect, useRef } from 'react';
-import { GestureContainer, CollapsibleHeaderProps, GestureContainerRef } from 'react-native-head-tab-view'
+import { GestureContainer, CollapsibleHeaderProps, GestureContainerRef } from 'react-native-head-tab-view-prime'
 
 type ZTabViewProps<T extends Route> = Partial<TabViewProps<T>> &
     Pick<TabViewProps<T>, 'onIndexChange' | 'navigationState' | 'renderScene'> & CollapsibleHeaderProps
