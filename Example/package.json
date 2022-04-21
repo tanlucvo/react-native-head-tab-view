@@ -1,7 +1,6 @@
 {
-  "name": "TabBarTest",
-  "version": "0.0.1",
-  "private": true,
+  "name": "tab-bar-prime",
+  "version": "0.0.2",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
