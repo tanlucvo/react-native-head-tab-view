@@ -28,7 +28,7 @@
   ],
   "peerDependencies": {
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "^2.0.1"
+    "react-native-reanimated": "^2.2.4"
   },
   "description": "Tab view component for React Native"
 }
